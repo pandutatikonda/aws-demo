@@ -1,2 +1,2 @@
-# AWS-Demo - 21102019
+# AWS-Demo
 Test Github-webhook
